@@ -8,6 +8,7 @@ Added libraries:
 - pandas
 - scikit learn
 - seaborn
+- shutil
 
 Planned libraries:
 - keras
